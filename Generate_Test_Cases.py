@@ -52,8 +52,6 @@ from grader_support import util
 
 
 
-# This grader is for the Emojify assignment
-
 mFiles = [
     "is_overlapping.py",
     "insert_audio_clip.py",
