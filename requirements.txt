@@ -1,0 +1,9 @@
+numpy==1.24.4
+pandas==2.2.2
+matplotlib==3.8.4
+tensorflow==2.15.0
+keras==2.15.0
+scipy==1.11.4
+pydub==0.25.1
+IPython==8.24.0
+tqdm==4.66.4
